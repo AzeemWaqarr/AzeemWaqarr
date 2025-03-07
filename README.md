@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Azeen
 
-<!--
-**AzeemWaqarr/AzeemWaqarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a Computer Science graduate from FAST NUCES Islamabad, passionate about software development, web technologies, and AI-driven solutions. I love building projects that solve real-world problems and constantly learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- **Languages:** Python, JavaScript, C++, SQL
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** FastAPI, Node.js
+- **Databases:** MySQL, MongoDB
+- **DevOps & Tools:** Docker, Kubernetes, Git, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 📬 Contact Me
+- **Email:** azeem.waqarr@example.com
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/azeemwaqar)
