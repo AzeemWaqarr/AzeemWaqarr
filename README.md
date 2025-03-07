@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Azeen
+# Hi there! 👋 I'm Azeem
 
 ## 💻 About Me
 I'm a Computer Science graduate from FAST NUCES Islamabad, passionate about software development, web technologies, and AI-driven solutions. I love building projects that solve real-world problems and constantly learning new technologies.
