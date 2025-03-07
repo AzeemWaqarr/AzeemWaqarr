@@ -11,7 +11,7 @@ I'm a Computer Science graduate from FAST NUCES Islamabad, passionate about soft
 - **DevOps & Tools:** Docker, Kubernetes, Git, GitHub Actions
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzeemWaqarr&show_icons=true&theme=radical)
 
 ## 📬 Contact Me
 - **Email:** azeem.waqarr@example.com
