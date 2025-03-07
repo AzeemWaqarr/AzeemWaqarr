@@ -16,3 +16,4 @@ I'm a Computer Science graduate from FAST NUCES Islamabad, passionate about soft
 ## 📬 Contact Me
 - **Email:** azeem.waqarr@example.com
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/azeemwaqar)
+- **GitHub:** [Your GitHub](https://github.com/AzeemWaqarr)
